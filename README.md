@@ -1,1 +1,1 @@
-# Template Next.js app with [chakra-ui](https://github.com/chakra-ui/chakra-ui) and Typescript
+# Chakra UI の Semantic Tokens を試す Repository
